@@ -1,0 +1,29 @@
+_repo: A-Sketch-of-the-Life-of-the-late-Henry-CooperBarrister-at-Law-of-the-Norfolk-Circuit--as-also__23826
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooper, William
+    gutenberg_agent_id: '26059'
+    url: http://www.gutenberg.org/2009/agents/26059
+description: ''
+gutenberg_issued: '2007-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lawyers -- England -- Biography'
+- !lcsh 'Trials (Libel) -- England'
+- !lcsh 'Cooper, Henry, barrister-at-law'
+- !lcc 'KD'
+- !lcsh 'Carlile, Mary Anne -- Trials, litigation, etc.'
+title: 'A Sketch of the Life of the late Henry Cooper
+
+  Barrister-at-Law, of the Norfolk Circuit; as also, of his Father'
+url: http://www.gutenberg.org/ebooks/23826
